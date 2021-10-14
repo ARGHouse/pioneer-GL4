@@ -5,9 +5,18 @@
 [![Github All Releases](https://img.shields.io/github/downloads/pioneerspacesim/pioneer/latest/total)]()
 
 
-# Pioneer Space Simulator
+# Pioneer Space Simulator - GL4
 
 ![](https://github.com/pioneerspacesim/pioneer/blob/master/data/icons/badge.png)
+
+## A note from the Unioneer Cooperative
+This is the Unioneer Cooperatives embryo fork for development of multiple
+Unioniverse games. This fork is dedicated towards providing improvements for
+Pioneer from the Unioniverse source, seperate to the main branch, as to ensure
+that: 
+a) older machines are not as effected by the upgraded to GL 4.x.
+b) To ensure that the developers of Pioneer can readily pick from the
+Unioniverse source that of which they feel will imrpove Pioneer.
 
 Pioneer is a space adventure game set in the Milky Way galaxy at the turn of
 the 31st century.
